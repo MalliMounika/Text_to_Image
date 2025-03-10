@@ -1,5 +1,5 @@
 # Text_to_Image
-**Project Title:** **Text-to-Image Generation using MonsterAPI**
+# Title: Text-to-Image Generation using MonsterAPI
 
 This project leverages MonsterAPI to develop an innovative Text-to-Image generation system. The application takes text input, processes the content, and generates an image based on the text and This project showcases the power of AI-powered text-to-image generation and provides a foundation for further development.
 
